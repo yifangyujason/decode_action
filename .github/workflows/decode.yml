@@ -3,7 +3,7 @@ name: Decode JavaScript File
 on:
   push:
     branches:
-      - main
+      - dev
 jobs:
   decode:
     runs-on: ubuntu-latest
