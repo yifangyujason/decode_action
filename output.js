@@ -1,4 +1,4 @@
-//1720829310414
+//1720829608306
 /*
 星系牧场
 活动入口：QQ星儿童牛奶京东自营旗舰店->品牌会员->星系牧场
@@ -8,7 +8,6 @@
 */
 
 const $ = new Env("QQ\u661F\u7CFB\u7267\u573A");
-var _0xodQ = "jsjiami.com.v7";
 const _0x3ef75f = _0x46cf;
 ((function (_0x401146, _0x1d3302, _0x183c53, _0x225f13, _0x36e79d, _0x301ad0, _0x47b9f3) {
   return _0x401146 = _0x401146 >> 8, _0x301ad0 = "hs", _0x47b9f3 = "hs", function (_0x1fbe03, _0x4b1b22, _0x3da7a8, _0x190068, _0x1a8847) {
@@ -1628,7 +1627,6 @@ function _0x55ab33(_0x356169) {
     } else _0x3fb542[_0x1ea82f(493, "dTTc")](_0x573d08, _0x22e819);
   }
 }
-var version_ = "jsjiami.com.v7";
 function Env(t, e) {
   "undefined" != typeof process && JSON.stringify(process.env).indexOf("GITHUB") > -1 && process.exit(0);
   class s {
