@@ -1,4 +1,4 @@
-//Fri Jul 12 2024 12:25:40 GMT+0000 (Coordinated Universal Time)
+//Sat Jul 27 2024 23:55:01 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 /*
@@ -12,7 +12,7 @@
 const $ = new Env("QQ\u661F\u7CFB\u7267\u573A");
 var _0xodQ = "jsjiami.com.v7";
 const _0x3ef75f = _0x46cf;
-((function (_0x401146, _0x1d3302, _0x183c53, _0x225f13, _0x36e79d, _0x301ad0, _0x47b9f3) {
+(function (_0x401146, _0x1d3302, _0x183c53, _0x225f13, _0x36e79d, _0x301ad0, _0x47b9f3) {
   return _0x401146 = _0x401146 >> 8, _0x301ad0 = "hs", _0x47b9f3 = "hs", function (_0x1fbe03, _0x4b1b22, _0x3da7a8, _0x190068, _0x1a8847) {
     const _0x131ff7 = _0x46cf;
     _0x190068 = "tfi", _0x301ad0 = _0x190068 + _0x301ad0, _0x1a8847 = "up", _0x47b9f3 += _0x1a8847, _0x301ad0 = _0x3da7a8(_0x301ad0), _0x47b9f3 = _0x3da7a8(_0x47b9f3), _0x3da7a8 = 0;
@@ -38,7 +38,7 @@ const _0x3ef75f = _0x46cf;
   }(_0x183c53, _0x1d3302, function (_0x5c893c, _0x4da54b, _0xf58009, _0x1ad30b, _0x1c40b1, _0x280c17, _0x6c9d6e) {
     return _0x4da54b = "split", _0x5c893c = arguments[0], _0x5c893c = _0x5c893c[_0x4da54b](""), _0xf58009 = `\x72\x65\x76\x65\x72\x73\x65`, _0x5c893c = _0x5c893c[_0xf58009]("v"), _0x1ad30b = `\x6a\x6f\x69\x6e`, (1537407, _0x5c893c[_0x1ad30b](""));
   });
-})(51712, 738065, _0x3317, 204), _0x3317) && (_0xodQ = _0x3ef75f(418, "sFBg"));
+}(51712, 738065, _0x3317, 204), _0x3317) && (_0xodQ = _0x3ef75f(418, "sFBg"));
 const _0x5ae6bf = $[_0x3ef75f(1264, "jShY")]() ? require(_0x3ef75f(1257, "qFy7")) : "",
   _0x496694 = $[_0x3ef75f(845, "Z*ih")]() ? require(_0x3ef75f(853, "Wkw*")) : "",
   _0x4151d1 = require(_0x3ef75f(420, "!uzN"));
