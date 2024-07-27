@@ -37,26 +37,6 @@
 #        不见满街漂亮妹，哪个归得程序员？
 #
 #   --------------------------------代码区--------------------------------
-'''
-cron: 30 11 * * *
-new Env('天瑞地安共富签签到');
-群组：https://t.me/yangmaoxz
-频道地址：https://t.me/ymxzpd
-
-使用方法：
-1.打开app
-2.抓包任意vapp.tmuyun.com域名headers中的X-ACCOUNT-ID,X-SESSION-ID参数
-3.配置文件添加
-单账户：export trda_sign="[ {'name': 'xxx','aid': 'id', 'sid': 'xxxx'}]"
-多账户：export trda_sign="[
-{'name': 'xxx','aid': 'xxxx', 'sid': 'xxxx'},
-{'name': 'xxx','aid': 'xxxx', 'sid': 'xxxx'}
-]"
-参数说明：
-bz:备注名随意填写
-aid:2步骤中的X-ACCOUNT-ID参数
-sid:2步骤中的X-SESSION-ID参数
-'''
 import lzma,base64
 SCmHtnjaIdLWBeNAOEMPDlYUcVsxpRrGkwvfzFyQuJoXqKibgT=base64.b64decode
 SCmHtnjaIdLWBeNAOEMPDlYUcVsxpRrGkwvfzFyQuJoXqKibgh=lzma.decompress
